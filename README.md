@@ -1,4 +1,4 @@
-# L2S4 - Introduction à l'Inteligence Artificielle
+# L2S4 - Introduction à l'intelligence artificielle
 
 ## [Cours Moodle](https://moodle.univ-lille.fr/course/view.php?id=32720)
 
